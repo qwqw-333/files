@@ -1,0 +1,23 @@
+- [X] TODO install Brew and run `brew bundle`
+- [ ] TODO config zsh (plugins, aliases, starship prompt, completions)
+  - [ ] Set git shortcuts as `git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short`
+- [ ] TODO config for kitty (theme, font, keybindings)
+- [ ] TODO config for tmux (sessions, status bar, plugins)
+- [ ] TODO config for nvim (LSP, plugins, theme, keymaps)
+- [ ] TODO setup fzf (integration with zsh, keybindings)
+- [ ] TODO setup git (aliases, signing, hooks, branch strategy, ignore global)
+- [ ] TODO config for ssh (keys, agent forwarding, hosts)
+- [ ] TODO config for docker (daemon settings, buildx, pruning)
+- [ ] TODO config for kubectl (contexts, autocompletion, aliases)
+- [ ] TODO setup k9s and lens (profiles, shortcuts, themes)
+- [ ] TODO config for terraform (state backend, workspaces)
+- [ ] TODO config for ansible (inventory, roles, vault)
+- [ ] TODO setup database clients (mongodb-compass, dbeaver)
+- [ ] TODO config for vscode/cursor (extensions, settings.json, keybindings)
+- [ ] TODO config for raycast (shortcuts, extensions)
+- [X] TODO config for karabiner-elements (custom keymaps)
+  - [X] kitty fn+f shortcut
+- [ ] TODO setup VPN clients (openvpn, clearvpn)
+- [ ] TODO config for productivity apps (notion, telegram, signal, spotify, youtube-music)
+- [ ] TODO setup backup and sync (google-drive, bitwarden)
+- [ ] TODO cleanup system utilities (keepingyouawake, shottr, keka, transmission, app-cleaner)
