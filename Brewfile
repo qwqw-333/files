@@ -112,3 +112,4 @@ cask "raycast"               # productivity launcher
 brew "starship"              # modern shell prompt
 cask "font-jetbrains-mono-nerd-font"  # developer font with icons
 cask "karabiner-elements"    # keyboard customization tool
+cask "jordanbaird-ice"       # menu bar icon manager for macOS
