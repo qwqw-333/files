@@ -46,6 +46,7 @@ brew "trivy"                 # container vulnerability scanner
 brew "kind"                  # local Kubernetes in Docker
 brew "k3d"                   # lightweight local Kubernetes
 brew "kubectl"               # Kubernetes CLI
+brew "kubecolor"             # Colored output for kubectl
 brew "helm"                  # Kubernetes package manager
 brew "kubectx"               # switch between Kubernetes contexts
 brew "k9s"                   # terminal-based Kubernetes IDE
