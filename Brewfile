@@ -97,15 +97,24 @@ cask "signal"                # messenger
 # -------------------------
 cask "notion"                # notes and organization
 cask "spotify"               # music player
+cask "youtube-music"         # music player (YouTube Music)
 cask "google-drive"          # cloud storage
+
+# -------------------------
+# AI tools
+# -------------------------
+cask "chatgpt"               # ChatGPT client
+cask "claude"                # Claude AI client
+cask "gemini"                # Google Gemini client
+brew "gemini-cli"            # Google Gemini CLI tool
+cask "cursor"                # AI-powered IDE
 
 # -------------------------
 # UI and environment
 # -------------------------
 cask "alt-tab"               # window switcher
 cask "brave-browser"         # web browser
-cask "chatgpt"               # ChatGPT client
-cask "cursor"                # AI-powered IDE
+brew "brew-browser"          # browse Homebrew formulas and casks
 cask "visual-studio-code"    # code editor
 cask "sublime-text"          # text editor
 cask "raycast"               # productivity launcher
