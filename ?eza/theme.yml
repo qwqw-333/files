@@ -1,0 +1,15 @@
+# ~/.config/eza/theme.yml
+colors:
+  file: 252 # Default files
+  directory: 33 # Folders
+  symlink: 37 # Links
+  executable: 161 # Executable files
+  block_device: 244
+  char_device: 244
+  socket: 244
+  pipe: 244
+  special: 244
+  missing: 240
+  date: 244
+  size: 244
+  git: 244

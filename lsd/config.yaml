@@ -1,0 +1,24 @@
+color:
+  when: always
+  theme: custom
+
+blocks:
+  - permission
+  - user
+  - group
+  - size
+  - date
+  - name
+
+date: relative
+
+icons:
+  when: auto
+  theme: fancy
+
+layout: grid
+
+sorting:
+  column: name
+  reverse: false
+  dir-grouping: first

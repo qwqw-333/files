@@ -1,0 +1,31 @@
+{
+  "title": "Kitty: Globe(Fn)+F -> Cmd+Enter (toggle fullscreen)",
+  "rules": [
+    {
+      "description": "Globe(Fn)+F sends Cmd+Enter in Kitty",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "f",
+            "modifiers": {
+              "mandatory": ["fn"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "return_or_enter",
+              "modifiers": ["left_command"]
+            }
+          ],
+          "conditions": [
+            {
+              "type": "frontmost_application_if",
+              "bundle_identifiers": ["^net\\.kovidgoyal\\.kitty$"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
