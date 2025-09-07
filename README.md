@@ -1,4 +1,4 @@
-# Brewfile Setup
+# Application setup
 
 This repository provides a [Brewfile](./Brewfile) to bootstrap a macOS development and productivity environment with [Homebrew](https://brew.sh).
 
