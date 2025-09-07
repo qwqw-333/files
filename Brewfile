@@ -35,7 +35,6 @@ brew "act"                   # run GitHub Actions locally
 # Virtualization and containers
 # -------------------------
 cask "utm"                   # virtualization for macOS
-cask "docker-desktop"	     # docker container
 brew "dive"                  # Docker image inspector
 brew "trivy"                 # container vulnerability scanner
 
@@ -97,7 +96,6 @@ cask "signal"                # messenger
 # -------------------------
 cask "notion"                # notes and organization
 cask "spotify"               # music player
-cask "google-drive"          # cloud storage
 
 # -------------------------
 # AI tools
@@ -119,5 +117,11 @@ cask "raycast"                        # productivity launcher
 brew "starship"                       # modern shell prompt
 cask "font-jetbrains-mono-nerd-font"  # developer font with icons
 cask "font-fira-code-nerd-font"       # developer font with icons
-cask "karabiner-elements"    	        # keyboard customization tool
 cask "jordanbaird-ice"       	        # menu bar icon manager for macOS
+
+# -------------------------
+# Require password
+# -------------------------
+cask "google-drive"          # cloud storage
+cask "docker-desktop"	       # docker container
+cask "karabiner-elements"    # keyboard customization tool
