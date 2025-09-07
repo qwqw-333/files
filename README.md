@@ -1,3 +1,11 @@
+# First init
+
+Install [brew](https://brew.sh)
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 # Application setup
 
 This repository provides a [Brewfile](./Brewfile) to bootstrap a macOS development and productivity environment with [Homebrew](https://brew.sh).
