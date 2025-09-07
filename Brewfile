@@ -35,8 +35,7 @@ brew "act"                   # run GitHub Actions locally
 # Virtualization and containers
 # -------------------------
 cask "utm"                   # virtualization for macOS
-brew "docker"                # container platform
-brew "docker-compose"        # container orchestration
+cask "docker-desktop"	     # docker container
 brew "dive"                  # Docker image inspector
 brew "trivy"                 # container vulnerability scanner
 
@@ -112,13 +111,13 @@ cask "cursor"                # AI-powered IDE
 # -------------------------
 # UI and environment
 # -------------------------
-cask "alt-tab"               # window switcher
-cask "brave-browser"         # web browser
-cask "visual-studio-code"    # code editor
-cask "sublime-text"          # text editor
-cask "raycast"               # productivity launcher
-brew "starship"              # modern shell prompt
+cask "alt-tab"                        # window switcher
+cask "brave-browser"                  # web browser
+cask "visual-studio-code"             # code editor
+cask "sublime-text"                   # text editor
+cask "raycast"                        # productivity launcher
+brew "starship"                       # modern shell prompt
 cask "font-jetbrains-mono-nerd-font"  # developer font with icons
-cask "font-fira-code-nerd-font"  # developer font with icons
-cask "karabiner-elements"    # keyboard customization tool
-cask "jordanbaird-ice"       # menu bar icon manager for macOS
+cask "font-fira-code-nerd-font"       # developer font with icons
+cask "karabiner-elements"    	        # keyboard customization tool
+cask "jordanbaird-ice"       	        # menu bar icon manager for macOS
