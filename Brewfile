@@ -98,7 +98,6 @@ cask "signal"                # messenger
 # -------------------------
 cask "notion"                # notes and organization
 cask "spotify"               # music player
-cask "youtube-music"         # music player (YouTube Music)
 cask "google-drive"          # cloud storage
 
 # -------------------------
