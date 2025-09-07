@@ -105,7 +105,6 @@ cask "google-drive"          # cloud storage
 # -------------------------
 cask "chatgpt"               # ChatGPT client
 cask "claude"                # Claude AI client
-cask "gemini"                # Google Gemini client
 brew "gemini-cli"            # Google Gemini CLI tool
 cask "cursor"                # AI-powered IDE
 
