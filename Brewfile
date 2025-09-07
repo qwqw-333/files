@@ -114,7 +114,6 @@ cask "cursor"                # AI-powered IDE
 # -------------------------
 cask "alt-tab"               # window switcher
 cask "brave-browser"         # web browser
-brew "brew-browser"          # browse Homebrew formulas and casks
 cask "visual-studio-code"    # code editor
 cask "sublime-text"          # text editor
 cask "raycast"               # productivity launcher
